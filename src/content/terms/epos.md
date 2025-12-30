@@ -1,0 +1,1 @@
+# Epos\n\n**Definition**: Epic poetry; a long narrative poem, often about heroic deeds.\n\n**Etymology**: Greek ἔπος (épos) meaning \"word, song, tale\".\n\n**Usage**: In ancient Greek literature, epos referred specifically to hexameter verse recounting heroic legends. Modern usage extends to any grand narrative or cycle of myths.
